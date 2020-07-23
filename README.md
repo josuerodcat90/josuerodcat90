@@ -15,7 +15,7 @@ export class Programming {
   frameworks: string[] = ['React']
   runtimes: string[] = ['Node']
   databases: string[] = ['MySQL', 'Mongo', 'Postgre']
-  learning: string[] = ['TypeScript', 'NestJs', 'Angular', 'Docker']
+  learning: string[] = ['TypeScript', 'NestJs', 'Redux', 'Angular', 'Docker']
 }
 
 export class Social {
