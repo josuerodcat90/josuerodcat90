@@ -12,7 +12,8 @@ export class Info {
 export class Programming {
   languages: string[] = ['JavaScript', 'TypeScript']
   stylesheets: string[] = ['CSS']
-  frameworks: string[] = ['React']
+  frontLibraries: string[] = ['React']
+  frontFrameworks: string[] = ['Bootstrap','JQuery', 'Materialize CSS']
   runtimes: string[] = ['Node']
   databases: string[] = ['MySQL', 'Mongo', 'Postgre']
   learning: string[] = ['TypeScript', 'NestJs', 'Redux', 'Angular', 'Docker']
