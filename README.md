@@ -16,7 +16,7 @@ export class Programming {
   frontFrameworks: string[] = ['Bootstrap','JQuery', 'Materialize CSS']
   runtimes: string[] = ['Node']
   databases: string[] = ['MySQL', 'Mongo', 'Postgre']
-  learning: string[] = ['TypeScript', 'NestJs', 'Redux', 'Angular', 'Docker']
+  learning: string[] = ['TypeScript', 'NestJs', 'Redux', 'Angular', 'Docker', 'PHP']
 }
 
 export class Social {
