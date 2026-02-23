@@ -1,22 +1,22 @@
 ```ts
 export class Info {
-  name: string = 'Josue Rodriguez'
-  age: number = 30
+  name: string = 'Josué Rodríguez'
+  age: number = 36
   nationality: string = 'Honduran'
   languages: Record<string, string>[] = [{ 'English': 'B1' }, { 'Spanish': 'native' }]
   occupation: string = 'Web Developer'
   freetime: string[] = ['My Family','Learning', 'Video Games', 'Online Series']
-  musicalInterests: string[] = ['Trance','Techno','SynthWave','RetroWave','JazzHop','Lo-Fi']
+  musicalInterests: string[] = ['Rock', 'Metal', 'Trance','Techno','SynthWave','RetroWave','JazzHop','Lo-Fi']
 }
 
 export class Programming {
   languages: string[] = ['JavaScript', 'TypeScript']
-  stylesheets: string[] = ['CSS']
+  stylesheets: string[] = ['SCSS', 'CSS']
   frontLibraries: string[] = ['React']
-  frontFrameworks: string[] = ['Bootstrap','JQuery', 'Materialize CSS']
-  runtimes: string[] = ['Node']
+  frontFrameworks: string[] = ['MUI', 'Materialize CSS']
+  runtimes: string[] = ['Node', 'Bun']
   databases: string[] = ['MySQL', 'Mongo', 'Postgre']
-  learning: string[] = ['TypeScript', 'NestJs', 'Redux', 'Angular', 'Docker', 'PHP']
+  learning: string[] = ['TypeScript', 'Angular', 'Docker']
 }
 
 export class Social {
