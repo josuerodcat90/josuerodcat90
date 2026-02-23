@@ -22,6 +22,6 @@ export class Programming {
 export class Social {
   github: string = 'josuerodcat90'
   discord: string = 'Josh Rodriguez#4147'
-  linkedin: string = '[https://www.linkedin.com/in/JosueRodríguezCatalan](https://www.linkedin.com/in/josuerodriguezcatalan/)'
+  linkedin: string = 'https://www.linkedin.com/in/josuerodriguezcatalan'
 }
 ```
