@@ -13,15 +13,14 @@ export class Programming {
   languages: string[] = ['JavaScript', 'TypeScript']
   stylesheets: string[] = ['SCSS', 'CSS']
   frontLibraries: string[] = ['React']
-  frontFrameworks: string[] = ['MUI', 'Materialize CSS']
   runtimes: string[] = ['Node', 'Bun']
   databases: string[] = ['MySQL', 'Mongo', 'Postgre']
-  learning: string[] = ['TypeScript', 'Angular', 'Docker']
+  learning: string[] = ['Angular', 'Next.js']
 }
 
 export class Social {
   github: string = 'josuerodcat90'
   discord: string = 'Josh Rodriguez#4147'
-  linkedin: string = 'https://www.linkedin.com/in/josuerodriguezcatalan'
+  linkedin: string = 'www.linkedin.com/in/josuerodriguezcatalan'
 }
 ```
